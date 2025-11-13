@@ -1,0 +1,38 @@
+Star: 2MASSJ08504952+1217158
+Data length: 4
+
+Primary
+  Amplitude       : 18.098 km/s
+  Mean            : 12.774 km/s
+  STD             : 13.595 km/s
+Primary Error Bars
+  RV1_hi max      : 0.324 km/s
+  RV1_hi mean     : 0.252 km/s
+  RV1_lo max      : 0.380 km/s
+  RV1_lo mean     : 0.275 km/s
+
+Vsini1
+  Mean            : 25.132
+  Error mean      : 0.152
+  Error max       : 0.188
+
+Secondary
+  Amplitude       : 4.965 km/s
+  Mean            : 68.182 km/s
+  STD             : 4.416 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.369 km/s
+  RV2_hi mean     : 0.342 km/s
+  RV2_lo max      : 0.565 km/s
+  RV2_lo mean     : 0.392 km/s
+
+Vsini2
+  Mean            : 21.184
+  Error mean      : 0.238
+  Error max       : 0.277
+
+Initial Fit Parameters (p0):
+[0.016, 9.689, 20.099, 0.0]
+[0.016, -0.558, 30, 0.012, 74.588, 25, 0.0]
+[0.016, 34.208, 30, 0.012, 89.786, 25.0, 0.0]
+[0.016, 37.014, 30, 0.012, 95.187, 25, 0.0]

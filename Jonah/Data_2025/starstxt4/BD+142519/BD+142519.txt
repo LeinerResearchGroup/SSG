@@ -1,0 +1,29 @@
+Star: BD+142519
+Data length: 7
+
+Primary
+  Amplitude       : 34.534 km/s
+  Mean            : -10.533 km/s
+  STD             : 25.201 km/s
+Primary Error Bars
+  RV1_hi max      : 0.264 km/s
+  RV1_hi mean     : 0.209 km/s
+  RV1_lo max      : 0.272 km/s
+  RV1_lo mean     : 0.215 km/s
+
+Vsini1
+  Mean            : 36.833
+  Error mean      : 0.147
+  Error max       : 0.199
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.011, -50.307, 32.567, 0.0]
+[0.011, -59.266, 32.212, 0.0]
+[0.012, 2.757, 31.524, 0.0]
+[0.013, -44.105, 28.82, 0.0]
+[0.012, -11.715, 32.273, 0.0]
+[0.013, 38.592, 29.782, 0.0]
+[0.013, 33.079, 29.408, 0.0]
