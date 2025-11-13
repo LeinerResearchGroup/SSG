@@ -1,0 +1,34 @@
+Star: BPSCS22950-0027
+Data length: 12
+
+Primary
+  Amplitude       : 26.011 km/s
+  Mean            : -22.119 km/s
+  STD             : 16.539 km/s
+Primary Error Bars
+  RV1_hi max      : 0.153 km/s
+  RV1_hi mean     : 0.097 km/s
+  RV1_lo max      : 0.150 km/s
+  RV1_lo mean     : 0.093 km/s
+
+Vsini1
+  Mean            : 11.347
+  Error mean      : 160233.404
+  Error max       : 1922800.128
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.034, 19.985, 10.152, 0.0]
+[0.033, -50.996, 10.177, 0.0]
+[0.036, -27.566, 9.556, 0.0]
+[0.037, -9.648, 9.534, 0.0]
+[0.036, 33.079, 9.608, 0.0]
+[0.035, -13.783, 9.97, 0.0]
+[0.033, 30.322, 10.796, 0.0]
+[0.032, -28.944, 10.88, 0.0]
+[0.033, -45.483, 10.743, 0.0]
+[0.035, -26.876, 10.033, 0.0]
+[0.035, -27.566, 10.038, 0.0]
+[0.034, 17.918, 10.434, 0.0]

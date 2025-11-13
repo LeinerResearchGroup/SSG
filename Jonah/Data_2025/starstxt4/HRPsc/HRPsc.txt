@@ -1,0 +1,34 @@
+Star: HRPsc
+Data length: 12
+
+Primary
+  Amplitude       : 21.484 km/s
+  Mean            : 10.656 km/s
+  STD             : 12.669 km/s
+Primary Error Bars
+  RV1_hi max      : 0.707 km/s
+  RV1_hi mean     : 0.252 km/s
+  RV1_lo max      : 0.667 km/s
+  RV1_lo mean     : 0.254 km/s
+
+Vsini1
+  Mean            : 26.726
+  Error mean      : 0.147
+  Error max       : 0.452
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.018, -32.925, 20.05, 0.0]
+[0.019, -4.308, 18.703, 0.0]
+[0.021, -14.545, 18.511, 0.0]
+[0.019, 6.61, 18.585, 0.0]
+[0.02, 28.764, 19.052, 0.0]
+[0.018, 39.539, 19.54, 0.0]
+[0.017, 40.23, 21.965, 0.0]
+[0.018, -5.62, 19.712, 0.0]
+[0.018, -11.25, 21.513, 0.0]
+[0.019, -4.044, 20.845, 0.0]
+[0.009, -10.496, 41.092, 0.0]
+[0.019, -27.567, 18.844, 0.0]

@@ -1,0 +1,43 @@
+Star: KNCnc
+Data length: 9
+
+Primary
+  Amplitude       : 27.324 km/s
+  Mean            : 16.832 km/s
+  STD             : 21.270 km/s
+Primary Error Bars
+  RV1_hi max      : 0.153 km/s
+  RV1_hi mean     : 0.108 km/s
+  RV1_lo max      : 0.160 km/s
+  RV1_lo mean     : 0.103 km/s
+
+Vsini1
+  Mean            : 12.318
+  Error mean      : 0.072
+  Error max       : 0.090
+
+Secondary
+  Amplitude       : 6.229 km/s
+  Mean            : 91.008 km/s
+  STD             : 5.087 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.319 km/s
+  RV2_hi mean     : 0.260 km/s
+  RV2_lo max      : 0.273 km/s
+  RV2_lo mean     : 0.260 km/s
+
+Vsini2
+  Mean            : -0.649
+  Error mean      : 0.825
+  Error max       : 1.432
+
+Initial Fit Parameters (p0):
+[0.037, 18.49, 9.379, 0.0]
+[0.037, 13.708, 9.611, 0.0]
+[0.038, -4.287, 9.596, 0.0]
+[0.041, 61.19, 9.044, 0.0]
+[0.035, 46.212, 10.077, 0.0]
+[0.033, 29.302, 10.638, 0.005, 114.254, 5.199, 0.0]
+[0.035, 22.416, 10.519, 0.005, 126.683, 4.936, 0.0]
+[0.034, 10.94, 9.892, 0.0]
+[0.034, -30.043, 10.491, 0.006, 65.279, 4.435, 0.0]

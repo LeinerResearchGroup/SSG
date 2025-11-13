@@ -1,0 +1,30 @@
+Star: NRLib
+Data length: 8
+
+Primary
+  Amplitude       : 50.539 km/s
+  Mean            : 25.451 km/s
+  STD             : 38.150 km/s
+Primary Error Bars
+  RV1_hi max      : 1.143 km/s
+  RV1_hi mean     : 0.541 km/s
+  RV1_lo max      : 1.246 km/s
+  RV1_lo mean     : 0.544 km/s
+
+Vsini1
+  Mean            : 47.497
+  Error mean      : 0.431
+  Error max       : 0.625
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.012, 84.091, 33.721, 0.0]
+[0.011, -16.455, 23.273, 0.0]
+[0.01, 49.641, 41.494, 0.0]
+[0.01, 15.186, 40.324, 0.0]
+[0.009, -35.923, 43.143, 0.0]
+[0.011, 82.856, 22.924, 0.0]
+[0.009, -3.146, 36.82, 0.0]
+[0.011, 67.737, 30.154, 0.0]

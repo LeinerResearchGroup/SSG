@@ -1,0 +1,33 @@
+Star: GSC02769-00149
+Data length: 11
+
+Primary
+  Amplitude       : 23.567 km/s
+  Mean            : -21.029 km/s
+  STD             : 14.636 km/s
+Primary Error Bars
+  RV1_hi max      : 0.323 km/s
+  RV1_hi mean     : 0.234 km/s
+  RV1_lo max      : 0.348 km/s
+  RV1_lo mean     : 0.227 km/s
+
+Vsini1
+  Mean            : 24.746
+  Error mean      : 0.183
+  Error max       : 0.373
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.021, -26.111, 15.94, 0.0]
+[0.02, -25.12, 14.566, 0.0]
+[0.019, -51.256, 20.736, 0.0]
+[0.022, -18.374, 16.349, 0.0]
+[0.019, -11.291, 21.182, 0.0]
+[0.022, 6.387, 16.244, 0.0]
+[0.022, -25.609, 16.024, 0.0]
+[0.019, -29.698, 21.233, 0.0]
+[0.018, -42.46, 22.481, 0.0]
+[0.019, -46.475, 21.311, 0.0]
+[0.018, -14.786, 21.179, 0.0]

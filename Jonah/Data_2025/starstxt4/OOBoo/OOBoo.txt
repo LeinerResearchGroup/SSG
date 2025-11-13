@@ -1,0 +1,38 @@
+Star: OOBoo
+Data length: 4
+
+Primary
+  Amplitude       : 30.136 km/s
+  Mean            : -33.552 km/s
+  STD             : 26.294 km/s
+Primary Error Bars
+  RV1_hi max      : 0.137 km/s
+  RV1_hi mean     : 0.095 km/s
+  RV1_lo max      : 0.117 km/s
+  RV1_lo mean     : 0.090 km/s
+
+Vsini1
+  Mean            : 15.007
+  Error mean      : 0.695
+  Error max       : 2.494
+
+Secondary
+  Amplitude       : 22.988 km/s
+  Mean            : 38.426 km/s
+  STD             : 20.973 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.377 km/s
+  RV2_hi mean     : 0.288 km/s
+  RV2_lo max      : 0.340 km/s
+  RV2_lo mean     : 0.266 km/s
+
+Vsini2
+  Mean            : 33.648
+  Error mean      : 74.988
+  Error max       : 224.659
+
+Initial Fit Parameters (p0):
+[0.026, -81.377, 7.695, 0.012, 27.877, 14.899, 0.0]
+[0.036, -11.198, 8.845, 0.0]
+[0.024, -62.102, 7.901, 0.012, 53.811, 15.609, 0.0]
+[0.025, -15.162, 8.852, 0.011, 8.3, 3.956, 0.0]

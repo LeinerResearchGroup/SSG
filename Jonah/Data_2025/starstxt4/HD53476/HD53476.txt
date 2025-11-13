@@ -1,0 +1,26 @@
+Star: HD53476
+Data length: 4
+
+Primary
+  Amplitude       : 20.336 km/s
+  Mean            : 6.051 km/s
+  STD             : 15.647 km/s
+Primary Error Bars
+  RV1_hi max      : 0.152 km/s
+  RV1_hi mean     : 0.107 km/s
+  RV1_lo max      : 0.135 km/s
+  RV1_lo mean     : 0.101 km/s
+
+Vsini1
+  Mean            : 12.522
+  Error mean      : 0.050
+  Error max       : 0.060
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.033, 9.728, 10.054, 0.0]
+[0.033, -8.598, 10.815, 0.0]
+[0.034, 8.601, 9.984, 0.0]
+[0.034, 19.616, 9.873, 0.0]

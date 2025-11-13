@@ -1,0 +1,27 @@
+Star: MPBoo
+Data length: 5
+
+Primary
+  Amplitude       : 0.276 km/s
+  Mean            : -23.727 km/s
+  STD             : 0.178 km/s
+Primary Error Bars
+  RV1_hi max      : 0.079 km/s
+  RV1_hi mean     : 0.070 km/s
+  RV1_lo max      : 0.079 km/s
+  RV1_lo mean     : 0.070 km/s
+
+Vsini1
+  Mean            : 6.665
+  Error mean      : 0.051
+  Error max       : 0.069
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.071, -14.557, 6.007, 0.0]
+[0.068, -11.082, 6.271, 0.0]
+[0.071, -34.538, 6.238, 0.0]
+[0.069, -23.013, 6.214, 0.0]
+[0.068, -22.508, 6.161, 0.0]

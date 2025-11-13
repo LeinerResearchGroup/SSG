@@ -1,0 +1,32 @@
+Star: KYBoo
+Data length: 10
+
+Primary
+  Amplitude       : 0.510 km/s
+  Mean            : -50.281 km/s
+  STD             : 0.284 km/s
+Primary Error Bars
+  RV1_hi max      : 0.184 km/s
+  RV1_hi mean     : 0.116 km/s
+  RV1_lo max      : 0.205 km/s
+  RV1_lo mean     : 0.117 km/s
+
+Vsini1
+  Mean            : 15.040
+  Error mean      : 0.060
+  Error max       : 0.078
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.031, -32.373, 12.728, 0.0]
+[0.031, -33.4, 12.831, 0.0]
+[0.037, -65.936, 11.653, 0.0]
+[0.034, -51.143, 11.907, 0.0]
+[0.03, -51.535, 13.514, 0.0]
+[0.032, -44.178, 12.539, 0.0]
+[0.031, -43.602, 12.786, 0.0]
+[0.029, -36.196, 12.921, 0.0]
+[0.031, -32.878, 12.766, 0.0]
+[0.032, -33.178, 12.629, 0.0]

@@ -1,0 +1,27 @@
+Star: HD113714
+Data length: 5
+
+Primary
+  Amplitude       : 74.895 km/s
+  Mean            : -21.496 km/s
+  STD             : 64.279 km/s
+Primary Error Bars
+  RV1_hi max      : 0.248 km/s
+  RV1_hi mean     : 0.221 km/s
+  RV1_lo max      : 0.246 km/s
+  RV1_lo mean     : 0.202 km/s
+
+Vsini1
+  Mean            : 36.609
+  Error mean      : 0.793
+  Error max       : 2.299
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.012, -75.358, 19.88, 0.0]
+[0.011, 60.142, 20.134, 0.0]
+[0.012, -79.082, 20.192, 0.0]
+[0.011, -78.248, 20.456, 0.0]
+[0.012, 78.119, 19.514, 0.0]

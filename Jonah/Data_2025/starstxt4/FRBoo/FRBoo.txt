@@ -1,0 +1,31 @@
+Star: FRBoo
+Data length: 9
+
+Primary
+  Amplitude       : 3.316 km/s
+  Mean            : -20.215 km/s
+  STD             : 2.818 km/s
+Primary Error Bars
+  RV1_hi max      : 0.161 km/s
+  RV1_hi mean     : 0.096 km/s
+  RV1_lo max      : 0.156 km/s
+  RV1_lo mean     : 0.095 km/s
+
+Vsini1
+  Mean            : 8.499
+  Error mean      : 0.069
+  Error max       : 0.172
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.057, -10.688, 7.584, 0.0]
+[0.057, -0.311, 7.426, 0.0]
+[0.057, -0.129, 7.371, 0.0]
+[0.057, -41.178, 7.478, 0.0]
+[0.031, -22.543, 7.208, 0.0]
+[0.057, -22.773, 7.466, 0.0]
+[0.057, -21.566, 7.524, 0.0]
+[0.057, -12.504, 7.432, 0.0]
+[0.046, -8.233, 7.428, 0.0]
