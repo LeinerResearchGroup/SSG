@@ -1,0 +1,28 @@
+Star: TYC2645-156-1
+Data length: 6
+
+Primary
+  Amplitude       : 25.825 km/s
+  Mean            : -4.392 km/s
+  STD             : 19.519 km/s
+Primary Error Bars
+  RV1_hi max      : 0.236 km/s
+  RV1_hi mean     : 0.188 km/s
+  RV1_lo max      : 0.250 km/s
+  RV1_lo mean     : 0.182 km/s
+
+Vsini1
+  Mean            : 26.398
+  Error mean      : 0.101
+  Error max       : 0.143
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.017, -18.646, 23.129, 0.0]
+[0.019, -0.884, 19.982, 0.0]
+[0.017, 30.193, 21.977, 0.0]
+[0.016, -13.508, 23.209, 0.0]
+[0.017, -2.897, 22.375, 0.0]
+[0.017, 4.365, 20.794, 0.0]

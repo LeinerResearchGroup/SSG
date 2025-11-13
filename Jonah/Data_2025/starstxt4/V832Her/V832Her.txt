@@ -1,0 +1,27 @@
+Star: V832Her
+Data length: 5
+
+Primary
+  Amplitude       : 10.286 km/s
+  Mean            : -10.284 km/s
+  STD             : 7.893 km/s
+Primary Error Bars
+  RV1_hi max      : 0.059 km/s
+  RV1_hi mean     : 0.051 km/s
+  RV1_lo max      : 0.058 km/s
+  RV1_lo mean     : 0.047 km/s
+
+Vsini1
+  Mean            : 6.054
+  Error mean      : 0.039
+  Error max       : 0.047
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.058, 13.301, 5.751, 0.0]
+[0.057, 1.926, 5.762, 0.0]
+[0.057, -1.006, 5.773, 0.0]
+[0.052, -16.44, 5.784, 0.0]
+[0.057, -24.605, 5.76, 0.0]

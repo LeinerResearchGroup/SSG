@@ -1,0 +1,26 @@
+Star: TYC1339-572-1
+Data length: 4
+
+Primary
+  Amplitude       : 12.068 km/s
+  Mean            : 2.060 km/s
+  STD             : 8.967 km/s
+Primary Error Bars
+  RV1_hi max      : 0.171 km/s
+  RV1_hi mean     : 0.127 km/s
+  RV1_lo max      : 0.171 km/s
+  RV1_lo mean     : 0.116 km/s
+
+Vsini1
+  Mean            : 16.489
+  Error mean      : 0.219
+  Error max       : 0.284
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.024, -7.429, 11.785, 0.0]
+[0.036, -26.334, 9.943, 0.0]
+[0.025, 16.013, 13.72, 0.0]
+[0.021, 36.764, 16.193, 0.0]

@@ -1,0 +1,28 @@
+Star: V457Vir
+Data length: 6
+
+Primary
+  Amplitude       : 47.867 km/s
+  Mean            : -3.665 km/s
+  STD             : 32.836 km/s
+Primary Error Bars
+  RV1_hi max      : 0.446 km/s
+  RV1_hi mean     : 0.230 km/s
+  RV1_lo max      : 0.405 km/s
+  RV1_lo mean     : 0.216 km/s
+
+Vsini1
+  Mean            : 27.646
+  Error mean      : 0.350
+  Error max       : 0.413
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.012, -11.999, 22.386, 0.0]
+[0.012, -6.568, 22.763, 0.0]
+[0.013, 14.248, 22.335, 0.0]
+[0.012, 41.818, 22.951, 0.0]
+[0.012, -11.605, 22.48, 0.0]
+[0.013, -38.267, 22.507, 0.0]

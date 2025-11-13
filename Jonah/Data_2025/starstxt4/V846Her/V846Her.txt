@@ -1,0 +1,27 @@
+Star: V846Her
+Data length: 5
+
+Primary
+  Amplitude       : 17.532 km/s
+  Mean            : -41.753 km/s
+  STD             : 15.060 km/s
+Primary Error Bars
+  RV1_hi max      : 0.206 km/s
+  RV1_hi mean     : 0.086 km/s
+  RV1_lo max      : 0.262 km/s
+  RV1_lo mean     : 0.095 km/s
+
+Vsini1
+  Mean            : 8.780
+  Error mean      : 0.084
+  Error max       : 0.264
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.044, -62.171, 7.503, 0.0]
+[0.045, -16.395, 7.51, 0.0]
+[0.044, -5.052, 7.437, 0.0]
+[0.046, -43.519, 7.471, 0.0]
+[0.021, -66.655, 7.511, 0.0]

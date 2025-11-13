@@ -1,0 +1,32 @@
+Star: TYC4415-328-1
+Data length: 10
+
+Primary
+  Amplitude       : 12.916 km/s
+  Mean            : -47.151 km/s
+  STD             : 9.769 km/s
+Primary Error Bars
+  RV1_hi max      : 0.154 km/s
+  RV1_hi mean     : 0.090 km/s
+  RV1_lo max      : 0.212 km/s
+  RV1_lo mean     : 0.091 km/s
+
+Vsini1
+  Mean            : 7.787
+  Error mean      : 0.057
+  Error max       : 0.115
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.055, -44.675, 6.889, 0.0]
+[0.059, -32.69, 6.615, 0.0]
+[0.055, -58.589, 6.821, 0.0]
+[0.037, -53.822, 7.261, 0.0]
+[0.058, -28.27, 6.73, 0.0]
+[0.058, -29.946, 6.705, 0.0]
+[0.051, -32.333, 6.917, 0.0]
+[0.057, -55.145, 6.772, 0.0]
+[0.056, -52.124, 6.856, 0.0]
+[0.047, -49.563, 7.013, 0.0]

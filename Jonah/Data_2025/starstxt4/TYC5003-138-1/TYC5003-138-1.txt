@@ -1,0 +1,42 @@
+Star: TYC5003-138-1
+Data length: 8
+
+Primary
+  Amplitude       : 46.438 km/s
+  Mean            : -47.103 km/s
+  STD             : 34.496 km/s
+Primary Error Bars
+  RV1_hi max      : 0.246 km/s
+  RV1_hi mean     : 0.138 km/s
+  RV1_lo max      : 0.288 km/s
+  RV1_lo mean     : 0.133 km/s
+
+Vsini1
+  Mean            : 11.422
+  Error mean      : 225125.258
+  Error max       : 1801001.620
+
+Secondary
+  Amplitude       : 60.411 km/s
+  Mean            : -52.244 km/s
+  STD             : 47.947 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.286 km/s
+  RV2_hi mean     : 0.135 km/s
+  RV2_lo max      : 0.297 km/s
+  RV2_lo mean     : 0.147 km/s
+
+Vsini2
+  Mean            : 4.943
+  Error mean      : 606849.356
+  Error max       : 4247944.499
+
+Initial Fit Parameters (p0):
+[0.027, 7.943, 10.941, 0.013, -65.808, 5.15, 0.0]
+[0.026, 24.463, 11.007, 0.013, -87.17, 5.378, 0.0]
+[0.028, -111.995, 10.956, 0.014, -9.927, 4.998, 0.0]
+[0.029, -105.441, 10.024, 0.012, -16.537, 5.375, 0.0]
+[0.035, -56.552, 10.597, 0.0]
+[0.028, -27.053, 10.381, 0.012, -97.791, 5.337, 0.0]
+[0.025, -75.778, 10.24, 0.012, 5.074, 5.89, 0.0]
+[0.028, -2.999, 10.653, 0.011, -55.865, 5.244, 0.0]
