@@ -1,0 +1,8 @@
+python lco_rvs.py 29Dra_2025-04-11_0.ls 5200_3.5 45000 500 False g vac &> out0
+python lco_rvs.py 29Dra_2025-04-21_0.ls 5200_3.5 45000 500 False g vac &> out1
+python lco_rvs.py 29Dra_2025-05-04_0.ls 5200_3.5 45000 500 False g vac &> out2
+python lco_rvs.py 29Dra_2025-05-28_0.ls 5200_3.5 45000 500 False g vac &> out3
+python lco_rvs.py 29Dra_2025-06-06_0.ls 5200_3.5 45000 500 False g vac &> out4
+python lco_rvs.py 29Dra_2025-06-18_0.ls 5200_3.5 45000 500 False g vac &> out5
+python lco_rvs.py 29Dra_2025-06-29_0.ls 5200_3.5 45000 500 False g vac &> out6
+python lco_rvs.py 29Dra_2025-07-11_0.ls 5200_3.5 45000 500 False g vac &> out7
