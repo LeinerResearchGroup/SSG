@@ -1,0 +1,4 @@
+python lco_rvs.py AZPsc_2025-07-12_0.ls 5200_4.0 45000 500 False g vac &> out0
+python lco_rvs.py AZPsc_2025-07-17_0.ls 5200_4.0 45000 500 False g vac &> out1
+python lco_rvs.py AZPsc_2025-07-22_0.ls 5200_4.0 45000 500 False g vac &> out2
+python lco_rvs.py AZPsc_2025-07-07_0.ls 5200_4.0 45000 500 False g vac &> out3
