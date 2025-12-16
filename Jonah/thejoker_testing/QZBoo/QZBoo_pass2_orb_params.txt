@@ -1,0 +1,5 @@
+# Star: QZBoo
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+15.765124824433538 0.27985235124272506 -1.301383245749927 0.7270411861231282 0.0 -34.892917572654206 -15.97756215933629 -3285.638382125215 -16.99876250276824
