@@ -1,0 +1,5 @@
+# Star: V846Her
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+8.188066848609111 0.030627486466100157 3.0623047745443164 2.5238736407217908 0.0 -49.57035401962995 -16.658152805551325 -21.443713157655 -8.515272283670654
