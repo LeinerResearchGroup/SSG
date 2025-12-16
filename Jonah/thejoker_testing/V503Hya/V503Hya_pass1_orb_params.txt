@@ -1,0 +1,5 @@
+# Star: V503Hya
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+7.326599559221131 0.564089448527368 1.7639349396920652 1.692841886000954 0.0 -151.19751284234155 40.02329702913366 -14.408343186065244 -9.912363440658957

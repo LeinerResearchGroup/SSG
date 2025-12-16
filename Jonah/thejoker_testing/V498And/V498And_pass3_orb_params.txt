@@ -1,0 +1,5 @@
+# Star: V498And
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+9.331415061699001 0.01769012139372213 -3.073938168001819 -2.707046815882262 0.0 30.546585332193693 -8.325367680084366 -1197.4926677933875 -9.201296484259561
