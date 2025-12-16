@@ -1,0 +1,5 @@
+# Star: 54Cam
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+11.109029630348825 0.12993203177089885 -1.0139047236151704 2.677905763133724 0.0 -56.593520843540176 29.653151574052536 -33.66007413155677 -11.95346932863384
