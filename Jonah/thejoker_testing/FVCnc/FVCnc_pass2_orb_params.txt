@@ -1,0 +1,5 @@
+# Star: FVCnc
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+7.886887305427167 0.030034634040390383 -3.032307123688932 -0.8065148866791482 0.0 -39.9199184742061 42.432555921825404 -8.3170215688387 -8.210467251825692
