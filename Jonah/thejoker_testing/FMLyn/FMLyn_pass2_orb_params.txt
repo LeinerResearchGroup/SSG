@@ -1,0 +1,5 @@
+# Star: FMLyn
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+17.37353767981615 0.015244698979693624 1.7842041569172544 2.921095062972379 0.0 -33.981433111398914 1.600212877174536 -38.93259172492766 -17.586090623183317

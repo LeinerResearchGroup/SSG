@@ -1,0 +1,5 @@
+# Star: FNCom
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+5.668544411913444 0.03598545641209509 1.1790602793701963 2.123253788315311 0.0 42.03754396217762 5.327429347094174 -1807.7951074697364 -6.02935562117775

@@ -1,0 +1,5 @@
+# Star: EPCVn
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+10.205596176659176 0.2231528963987145 -1.8436636817868821 -1.7054813629821213 0.0 50.04836599372354 7.98533756717014 -15871.368825902911 -10.893357945258366

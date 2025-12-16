@@ -1,0 +1,5 @@
+# Star: CGTri
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+3.1146740144189016 0.07175897393656437 -0.5287803392440799 -2.779255691513338 0.0 -46.395629144657825 38.088725223493384 -230.222125237059 -3.8918208555616203
