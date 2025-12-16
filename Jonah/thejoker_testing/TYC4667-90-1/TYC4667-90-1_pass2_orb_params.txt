@@ -1,0 +1,5 @@
+# Star: TYC4667-90-1
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+8.862260785394247 0.006534745289717501 -0.8178572473115879 -2.489395697337541 0.0 -53.60682038364822 -24.80088584267266 -626.1908449611016 -8.937647833581309
