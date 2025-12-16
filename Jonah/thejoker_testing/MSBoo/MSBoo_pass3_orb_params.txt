@@ -1,0 +1,5 @@
+# Star: MSBoo
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+6.425055744198514 0.019518061971005297 0.7142540888678988 1.774101619804631 0.0 19.74984951779088 5.92150029467825 -16.452605605537173 -6.296918683345019

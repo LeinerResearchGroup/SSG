@@ -1,0 +1,5 @@
+# Star: NRLib
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+2.682612271902381 0.035234572853243516 0.23328744224257233 0.765787725576154 0.0 49.47807099278022 14.71797104441973 -111.26890684148523 -3.286813251716144

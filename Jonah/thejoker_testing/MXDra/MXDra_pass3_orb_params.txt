@@ -1,0 +1,5 @@
+# Star: MXDra
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+6.391102747246036 0.12224952977893933 -1.0902744451263724 0.6030323658788139 0.0 41.55628015261789 6.161719894999366 -283.0424748991682 -6.731433619227673
