@@ -1,0 +1,5 @@
+# Star: KNCnc
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+21.067129003362407 0.08274977184914781 -2.9456680094814915 3.0522422760594092 0.0 31.28707914729717 15.770315423510638 -197.06005890962237 -21.651625243579872

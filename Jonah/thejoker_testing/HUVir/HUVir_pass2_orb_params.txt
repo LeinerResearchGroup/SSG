@@ -1,0 +1,5 @@
+# Star: HUVir
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+10.376908136569446 0.032642655660388535 3.097547949315605 -2.0556219571944174 0.0 45.64376456125999 1.6032006756624742 -276.84403794907325 -10.72148781756377

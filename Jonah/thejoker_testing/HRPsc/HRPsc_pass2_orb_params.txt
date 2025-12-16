@@ -1,0 +1,5 @@
+# Star: HRPsc
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+3.932744739333362 0.09636270755106664 -0.2705352934630268 1.7564279901461193 0.0 22.84360492560123 4.101708005435425 -269.96359808770893 -4.554455618172747
