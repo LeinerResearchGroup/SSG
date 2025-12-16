@@ -1,0 +1,5 @@
+# Star: BMCVn
+# Joker posterior samples (sorted by ln_likelihood/ln_posterior desc if available)
+
+P e omega M0 s K v0 ln_likelihood ln_prior
+21.369419710749707 0.45520923996685375 0.2612242758479322 -1.0870607281256595 0.0 27.37307297855095 11.402876969836537 -21.746387406365045 -22.92054614327032
