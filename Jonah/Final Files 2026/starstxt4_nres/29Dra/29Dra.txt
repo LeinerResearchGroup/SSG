@@ -1,0 +1,30 @@
+Star: 29Dra
+Data length: 8
+
+Primary
+  Amplitude       : 0.993 km/s
+  Mean            : -9.561 km/s
+  STD             : 0.685 km/s
+Primary Error Bars
+  RV1_hi max      : 0.091 km/s
+  RV1_hi mean     : 0.058 km/s
+  RV1_lo max      : 0.094 km/s
+  RV1_lo mean     : 0.060 km/s
+
+Vsini1
+  Mean            : 9.859
+  Error mean      : 0.064
+  Error max       : 0.118
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.054, -6.668, 7.848, 0.0]
+[0.066, -6.326, 7.572, 0.0]
+[0.063, -6.274, 7.727, 0.0]
+[0.064, -6.501, 7.929, 0.0]
+[0.06, -7.577, 8.194, 0.0]
+[0.061, -7.825, 8.123, 0.0]
+[0.06, -8.389, 8.376, 0.0]
+[0.059, -9.19, 8.338, 0.0]

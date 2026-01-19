@@ -1,0 +1,25 @@
+Star: DIPsc
+Data length: 3
+
+Primary
+  Amplitude       : 5.299 km/s
+  Mean            : -13.743 km/s
+  STD             : 4.984 km/s
+Primary Error Bars
+  RV1_hi max      : 11.518 km/s
+  RV1_hi mean     : 4.012 km/s
+  RV1_lo max      : 7.294 km/s
+  RV1_lo mean     : 2.597 km/s
+
+Vsini1
+  Mean            : 43.341
+  Error mean      : 0.477
+  Error max       : 0.668
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.007, -32.386, 41.32, 0.0]
+[0.015, -41.854, 32.921, 0.0]
+[0.014, -40.438, 32.96, 0.0]
