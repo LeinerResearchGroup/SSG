@@ -1,0 +1,39 @@
+Star: 54Cam
+Data length: 5
+
+Primary
+  Amplitude       : 49.191 km/s
+  Mean            : 26.819 km/s
+  STD             : 41.354 km/s
+Primary Error Bars
+  RV1_hi max      : 0.157 km/s
+  RV1_hi mean     : 0.105 km/s
+  RV1_lo max      : 0.155 km/s
+  RV1_lo mean     : 0.108 km/s
+
+Vsini1
+  Mean            : 31.863
+  Error mean      : 20.041
+  Error max       : 99.207
+
+Secondary
+  Amplitude       : 48.586 km/s
+  Mean            : 29.955 km/s
+  STD             : 41.065 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.248 km/s
+  RV2_hi mean     : 0.178 km/s
+  RV2_lo max      : 0.225 km/s
+  RV2_lo mean     : 0.169 km/s
+
+Vsini2
+  Mean            : 40.311
+  Error mean      : 4.963
+  Error max       : 16.232
+
+Initial Fit Parameters (p0):
+[0.019, 57.198, 10.283, 0.009, -35.522, 13.181, 0.0]
+[0.019, 73.049, 10.288, 0.01, -38.153, 12.693, 0.0]
+[0.02, 23.4, 3.8, 0.011, 52.0, 3.8, 0.0]
+[0.019, 12.404, 10.177, 0.01, 98.014, 12.703, 0.0]
+[0.02, 6.891, 10.222, 0.01, 105.908, 13.342, 0.0]

@@ -1,0 +1,31 @@
+Star: ASASJ162510+0514.9
+Data length: 9
+
+Primary
+  Amplitude       : 55.507 km/s
+  Mean            : -83.071 km/s
+  STD             : 37.612 km/s
+Primary Error Bars
+  RV1_hi max      : 0.970 km/s
+  RV1_hi mean     : 0.356 km/s
+  RV1_lo max      : 1.043 km/s
+  RV1_lo mean     : 0.357 km/s
+
+Vsini1
+  Mean            : 57.210
+  Error mean      : 1.217
+  Error max       : 9.526
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.011, -66.846, 31.634, 0.0]
+[0.012, -111.64, 31.616, 0.0]
+[0.011, -117.154, 32.774, 0.0]
+[0.012, -87.521, 33.253, 0.0]
+[0.011, -46.172, 31.633, 0.0]
+[0.011, -153.678, 33.824, 0.0]
+[0.01, -84.075, 35.45, 0.0]
+[0.011, -116.465, 34.201, 0.0]
+[0.011, 16.539, 36.308, 0.0]
