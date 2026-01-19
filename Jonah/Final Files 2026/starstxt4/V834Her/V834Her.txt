@@ -1,0 +1,29 @@
+Star: V834Her
+Data length: 7
+
+Primary
+  Amplitude       : 1.159 km/s
+  Mean            : 28.229 km/s
+  STD             : 0.706 km/s
+Primary Error Bars
+  RV1_hi max      : 0.165 km/s
+  RV1_hi mean     : 0.068 km/s
+  RV1_lo max      : 0.194 km/s
+  RV1_lo mean     : 0.073 km/s
+
+Vsini1
+  Mean            : 2.050
+  Error mean      : 148579.104
+  Error max       : 540710.296
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.025, 19.107, 5.265, 0.0]
+[0.075, 36.966, 5.091, 0.0]
+[0.077, 37.168, 5.059, 0.0]
+[0.076, 44.293, 5.096, 0.0]
+[0.077, 14.186, 5.074, 0.0]
+[0.06, 16.317, 5.085, 0.0]
+[0.077, 16.315, 5.084, 0.0]

@@ -1,0 +1,26 @@
+Star: V424Gem
+Data length: 4
+
+Primary
+  Amplitude       : 28.076 km/s
+  Mean            : 31.373 km/s
+  STD             : 25.406 km/s
+Primary Error Bars
+  RV1_hi max      : 0.091 km/s
+  RV1_hi mean     : 0.082 km/s
+  RV1_lo max      : 0.106 km/s
+  RV1_lo mean     : 0.088 km/s
+
+Vsini1
+  Mean            : 10.801
+  Error mean      : 0.058
+  Error max       : 0.062
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.043, -10.504, 9.138, 0.0]
+[0.043, 39.667, 9.168, 0.0]
+[0.045, 68.354, 9.088, 0.0]
+[0.046, 30.641, 8.472, 0.0]
