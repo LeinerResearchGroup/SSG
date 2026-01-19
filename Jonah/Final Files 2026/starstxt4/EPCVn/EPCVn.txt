@@ -1,0 +1,34 @@
+Star: EPCVn
+Data length: 12
+
+Primary
+  Amplitude       : 49.956 km/s
+  Mean            : 22.716 km/s
+  STD             : 30.581 km/s
+Primary Error Bars
+  RV1_hi max      : 0.106 km/s
+  RV1_hi mean     : 0.091 km/s
+  RV1_lo max      : 0.117 km/s
+  RV1_lo mean     : 0.089 km/s
+
+Vsini1
+  Mean            : 10.974
+  Error mean      : 0.098
+  Error max       : 0.121
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.04, 73.118, 8.893, 0.0]
+[0.038, 56.002, 9.387, 0.0]
+[0.04, 5.261, 8.907, 0.0]
+[0.042, 27.962, 8.905, 0.0]
+[0.043, 10.854, 8.71, 0.0]
+[0.039, 18.689, 9.355, 0.0]
+[0.041, 68.443, 8.929, 0.0]
+[0.04, 64.056, 9.125, 0.0]
+[0.039, 41.44, 9.282, 0.0]
+[0.038, 68.596, 8.808, 0.0]
+[0.038, -20.2, 9.322, 0.0]
+[0.039, 4.018, 8.901, 0.0]

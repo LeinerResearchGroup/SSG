@@ -1,0 +1,27 @@
+Star: KLCnc
+Data length: 5
+
+Primary
+  Amplitude       : 35.939 km/s
+  Mean            : 64.712 km/s
+  STD             : 28.924 km/s
+Primary Error Bars
+  RV1_hi max      : 0.845 km/s
+  RV1_hi mean     : 0.594 km/s
+  RV1_lo max      : 0.897 km/s
+  RV1_lo mean     : 0.596 km/s
+
+Vsini1
+  Mean            : 55.670
+  Error mean      : 0.679
+  Error max       : 0.850
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.012, -5.705, 40, 0.0]
+[0.014, 48.61, 10.172, 0.0]
+[0.012, 97.241, 7.777, 0.0]
+[0.011, 109.244, 8.673, 0.0]
+[0.009, 120.895, 45.389, 0.0]
