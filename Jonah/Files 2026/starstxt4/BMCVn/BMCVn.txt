@@ -1,0 +1,29 @@
+Star: BMCVn
+Data length: 7
+
+Primary
+  Amplitude       : 12.139 km/s
+  Mean            : 2.291 km/s
+  STD             : 7.864 km/s
+Primary Error Bars
+  RV1_hi max      : 0.136 km/s
+  RV1_hi mean     : 0.119 km/s
+  RV1_lo max      : 0.153 km/s
+  RV1_lo mean     : 0.124 km/s
+
+Vsini1
+  Mean            : 14.889
+  Error mean      : 0.079
+  Error max       : 0.098
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.032, 22.052, 12.919, 0.0]
+[0.036, -17.229, 11.968, 0.0]
+[0.034, -14.472, 12.691, 0.0]
+[0.032, 2.757, 12.88, 0.0]
+[0.034, 0.0, 12.301, 0.0]
+[0.034, 11.026, 12.164, 0.0]
+[0.032, 42.038, 12.895, 0.0]

@@ -1,0 +1,38 @@
+Star: FVCnc
+Data length: 4
+
+Primary
+  Amplitude       : 27.034 km/s
+  Mean            : 33.304 km/s
+  STD             : 20.987 km/s
+Primary Error Bars
+  RV1_hi max      : 0.077 km/s
+  RV1_hi mean     : 0.063 km/s
+  RV1_lo max      : 0.069 km/s
+  RV1_lo mean     : 0.057 km/s
+
+Vsini1
+  Mean            : 9.526
+  Error mean      : 0.041
+  Error max       : 0.053
+
+Secondary
+  Amplitude       : 28.581 km/s
+  Mean            : 38.109 km/s
+  STD             : 25.375 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.118 km/s
+  RV2_hi mean     : 0.104 km/s
+  RV2_lo max      : 0.126 km/s
+  RV2_lo mean     : 0.108 km/s
+
+Vsini2
+  Mean            : 3.285
+  Error mean      : 0.056
+  Error max       : 0.065
+
+Initial Fit Parameters (p0):
+[0.033, 67.521, 7.063, 0.02, 3.529, 7.537, 0.0]
+[0.043, 37.379, 9.415, 0.0]
+[0.032, 38.553, 7.135, 0.02, 85.796, 7.457, 0.0]
+[0.032, 48.271, 7.127, 0.02, 81.952, 7.168, 0.0]

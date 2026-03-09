@@ -1,0 +1,35 @@
+Star: HD347929
+Data length: 13
+
+Primary
+  Amplitude       : 0.853 km/s
+  Mean            : -0.115 km/s
+  STD             : 0.502 km/s
+Primary Error Bars
+  RV1_hi max      : 0.132 km/s
+  RV1_hi mean     : 0.093 km/s
+  RV1_lo max      : 0.142 km/s
+  RV1_lo mean     : 0.089 km/s
+
+Vsini1
+  Mean            : 10.692
+  Error mean      : 0.063
+  Error max       : 0.074
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.038, 20.859, 8.975, 0.0]
+[0.04, -14.779, 8.894, 0.0]
+[0.04, 6.558, 8.705, 0.0]
+[0.04, 7.049, 8.673, 0.0]
+[0.038, 22.781, 9.585, 0.0]
+[0.039, 21.047, 9.07, 0.0]
+[0.036, -22.283, 9.222, 0.0]
+[0.041, -18.997, 8.511, 0.0]
+[0.042, -18.766, 8.441, 0.0]
+[0.04, -17.482, 9.061, 0.0]
+[0.039, 4.366, 9.024, 0.0]
+[0.038, 20.008, 9.241, 0.0]
+[0.04, 21.88, 8.766, 0.0]

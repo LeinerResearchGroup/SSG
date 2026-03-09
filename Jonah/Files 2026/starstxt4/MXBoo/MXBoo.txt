@@ -1,0 +1,26 @@
+Star: MXBoo
+Data length: 4
+
+Primary
+  Amplitude       : 0.262 km/s
+  Mean            : -15.101 km/s
+  STD             : 0.204 km/s
+Primary Error Bars
+  RV1_hi max      : 0.108 km/s
+  RV1_hi mean     : 0.096 km/s
+  RV1_lo max      : 0.111 km/s
+  RV1_lo mean     : 0.091 km/s
+
+Vsini1
+  Mean            : 11.905
+  Error mean      : 0.044
+  Error max       : 0.056
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.04, -31.439, 10.256, 0.0]
+[0.041, -18.522, 9.576, 0.0]
+[0.039, -17.4, 9.824, 0.0]
+[0.04, -11.07, 9.775, 0.0]

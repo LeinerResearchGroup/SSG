@@ -1,0 +1,28 @@
+Star: FMLyn
+Data length: 6
+
+Primary
+  Amplitude       : 31.651 km/s
+  Mean            : -2.692 km/s
+  STD             : 22.005 km/s
+Primary Error Bars
+  RV1_hi max      : 0.287 km/s
+  RV1_hi mean     : 0.137 km/s
+  RV1_lo max      : 0.290 km/s
+  RV1_lo mean     : 0.134 km/s
+
+Vsini1
+  Mean            : 21.666
+  Error mean      : 0.326
+  Error max       : 1.575
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.033, -36.153, 11.405, 0.0]
+[0.033, 12.406, 11.546, 0.0]
+[0.033, -18.771, 11.88, 0.0]
+[0.033, -24.293, 11.894, 0.0]
+[0.034, 35.856, 11.238, 0.0]
+[0.01, 37.123, 21.364, 0.0]

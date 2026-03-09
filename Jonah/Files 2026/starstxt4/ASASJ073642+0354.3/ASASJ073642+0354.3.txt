@@ -1,0 +1,30 @@
+Star: ASASJ073642+0354.3
+Data length: 8
+
+Primary
+  Amplitude       : 0.576 km/s
+  Mean            : 20.696 km/s
+  STD             : 0.430 km/s
+Primary Error Bars
+  RV1_hi max      : 0.108 km/s
+  RV1_hi mean     : 0.067 km/s
+  RV1_lo max      : 0.091 km/s
+  RV1_lo mean     : 0.061 km/s
+
+Vsini1
+  Mean            : 8.371
+  Error mean      : 0.047
+  Error max       : 0.058
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.052, -4.135, 7.294, 0.0]
+[0.051, -4.135, 7.294, 0.0]
+[0.052, 1.378, 7.064, 0.0]
+[0.054, 31.7, 7.215, 0.0]
+[0.051, 53.753, 7.241, 0.0]
+[0.052, 53.753, 7.288, 0.0]
+[0.052, 53.753, 7.274, 0.0]
+[0.049, -8.27, 7.118, 0.0]
