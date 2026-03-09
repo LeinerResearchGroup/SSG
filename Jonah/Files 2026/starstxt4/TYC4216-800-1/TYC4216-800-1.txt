@@ -1,0 +1,27 @@
+Star: TYC4216-800-1
+Data length: 5
+
+Primary
+  Amplitude       : 15.280 km/s
+  Mean            : -16.588 km/s
+  STD             : 10.682 km/s
+Primary Error Bars
+  RV1_hi max      : 0.145 km/s
+  RV1_hi mean     : 0.123 km/s
+  RV1_lo max      : 0.116 km/s
+  RV1_lo mean     : 0.107 km/s
+
+Vsini1
+  Mean            : 15.083
+  Error mean      : 0.058
+  Error max       : 0.066
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.029, -17.878, 12.29, 0.0]
+[0.029, -21.811, 12.416, 0.0]
+[0.028, 4.491, 12.81, 0.0]
+[0.029, -24.217, 12.46, 0.0]
+[0.03, -20.731, 12.334, 0.0]

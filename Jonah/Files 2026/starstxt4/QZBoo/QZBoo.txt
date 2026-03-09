@@ -1,0 +1,34 @@
+Star: QZBoo
+Data length: 12
+
+Primary
+  Amplitude       : 32.924 km/s
+  Mean            : -12.629 km/s
+  STD             : 19.941 km/s
+Primary Error Bars
+  RV1_hi max      : 0.146 km/s
+  RV1_hi mean     : 0.087 km/s
+  RV1_lo max      : 0.190 km/s
+  RV1_lo mean     : 0.084 km/s
+
+Vsini1
+  Mean            : 10.346
+  Error mean      : 0.056
+  Error max       : 0.087
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.048, 15.527, 8.187, 0.0]
+[0.046, -8.783, 8.475, 0.0]
+[0.047, -32.291, 8.975, 0.0]
+[0.044, -54.571, 9.129, 0.0]
+[0.044, 13.099, 8.997, 0.0]
+[0.046, 16.841, 8.554, 0.0]
+[0.047, -40.457, 8.677, 0.0]
+[0.044, -6.668, 9.022, 0.0]
+[0.045, 2.025, 8.859, 0.0]
+[0.046, 6.489, 8.51, 0.0]
+[0.046, 14.456, 8.548, 0.0]
+[0.038, -23.206, 8.824, 0.0]

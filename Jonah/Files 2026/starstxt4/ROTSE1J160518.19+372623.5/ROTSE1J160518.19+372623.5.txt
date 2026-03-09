@@ -1,0 +1,38 @@
+Star: ROTSE1J160518.19+372623.5
+Data length: 4
+
+Primary
+  Amplitude       : 46.531 km/s
+  Mean            : -27.226 km/s
+  STD             : 36.167 km/s
+Primary Error Bars
+  RV1_hi max      : 0.138 km/s
+  RV1_hi mean     : 0.102 km/s
+  RV1_lo max      : 0.132 km/s
+  RV1_lo mean     : 0.093 km/s
+
+Vsini1
+  Mean            : 10.657
+  Error mean      : 0.052
+  Error max       : 0.070
+
+Secondary
+  Amplitude       : 45.682 km/s
+  Mean            : -0.133 km/s
+  STD             : 36.385 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.348 km/s
+  RV2_hi mean     : 0.241 km/s
+  RV2_lo max      : 0.369 km/s
+  RV2_lo mean     : 0.249 km/s
+
+Vsini2
+  Mean            : 13.859
+  Error mean      : 0.115
+  Error max       : 0.206
+
+Initial Fit Parameters (p0):
+[0.025, -59.172, 7.62, 0.015, 0.067, 11.253, 0.0]
+[0.023, -68.603, 7.53, 0.014, 18.938, 12.18, 0.0]
+[0.023, -45.367, 7.532, 0.014, 13.1, 11.002, 0.0]
+[0.028, 33.485, 7.558, 0.009, -63.396, 12.611, 0.0]

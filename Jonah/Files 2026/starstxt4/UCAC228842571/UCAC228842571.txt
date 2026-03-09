@@ -1,0 +1,35 @@
+Star: UCAC228842571
+Data length: 35
+
+Primary
+  Amplitude       : 45.614 km/s
+  Mean            : -19.458 km/s
+  STD             : 27.270 km/s
+Primary Error Bars
+  RV1_hi max      : 12.318 km/s
+  RV1_hi mean     : 0.509 km/s
+  RV1_lo max      : 18.544 km/s
+  RV1_lo mean     : 1.075 km/s
+
+Vsini1
+  Mean            : 7.349
+  Error mean      : 549573.335
+  Error max       : 2501451.472
+
+Secondary
+  Amplitude       : 46.522 km/s
+  Mean            : -14.516 km/s
+  STD             : 30.301 km/s
+Secondary Error Bars
+  RV2_hi max      : 7.848 km/s
+  RV2_hi mean     : 0.410 km/s
+  RV2_lo max      : 17.727 km/s
+  RV2_lo mean     : 1.284 km/s
+
+Vsini2
+  Mean            : 3.438
+  Error mean      : 326707.784
+  Error max       : 2541674.060
+
+Initial Fit Parameters (p0):
+

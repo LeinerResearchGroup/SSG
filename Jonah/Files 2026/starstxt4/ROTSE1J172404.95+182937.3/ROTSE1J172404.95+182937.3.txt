@@ -1,0 +1,25 @@
+Star: ROTSE1J172404.95+182937.3
+Data length: 3
+
+Primary
+  Amplitude       : 18.915 km/s
+  Mean            : 41.691 km/s
+  STD             : 16.491 km/s
+Primary Error Bars
+  RV1_hi max      : 0.155 km/s
+  RV1_hi mean     : 0.134 km/s
+  RV1_lo max      : 0.160 km/s
+  RV1_lo mean     : 0.129 km/s
+
+Vsini1
+  Mean            : 17.890
+  Error mean      : 0.090
+  Error max       : 0.106
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.018, 54.88, 16.22, 0.0]
+[0.02, 6.205, 15.14, 0.0]
+[0.02, 49.104, 13.55, 0.0]

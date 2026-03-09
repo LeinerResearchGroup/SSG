@@ -1,0 +1,39 @@
+Star: V503Hya
+Data length: 5
+
+Primary
+  Amplitude       : 70.636 km/s
+  Mean            : 46.027 km/s
+  STD             : 48.447 km/s
+Primary Error Bars
+  RV1_hi max      : 0.647 km/s
+  RV1_hi mean     : 0.218 km/s
+  RV1_lo max      : 0.578 km/s
+  RV1_lo mean     : 0.196 km/s
+
+Vsini1
+  Mean            : 28.624
+  Error mean      : inf
+  Error max       : inf
+
+Secondary
+  Amplitude       : 54.455 km/s
+  Mean            : 16.739 km/s
+  STD             : 37.279 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.904 km/s
+  RV2_hi mean     : 0.335 km/s
+  RV2_lo max      : 0.902 km/s
+  RV2_lo mean     : 0.319 km/s
+
+Vsini2
+  Mean            : 5.866
+  Error mean      : inf
+  Error max       : inf
+
+Initial Fit Parameters (p0):
+[0.015, -73.861, 6.854, 0.016, 59.468, 16.745, 0.0]
+[0.016, 46.133, 6.862, 0.014, -27.994, 17.575, 0.0]
+[0.016, 59.387, 6.842, 0.014, 6.044, 17.506, 0.0]
+[0.016, 120.079, 6.901, 0.014, 3.229, 17.238, 0.0]
+[0.011, 77.555, 5.054, 0.01, 42.09, 16.66, 0.0]

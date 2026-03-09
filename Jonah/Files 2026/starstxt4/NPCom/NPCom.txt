@@ -1,0 +1,28 @@
+Star: NPCom
+Data length: 6
+
+Primary
+  Amplitude       : 61.883 km/s
+  Mean            : 0.043 km/s
+  STD             : 50.549 km/s
+Primary Error Bars
+  RV1_hi max      : 0.431 km/s
+  RV1_hi mean     : 0.334 km/s
+  RV1_lo max      : 0.413 km/s
+  RV1_lo mean     : 0.347 km/s
+
+Vsini1
+  Mean            : 49.365
+  Error mean      : 0.247
+  Error max       : 0.294
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.008, 8.231, 42.926, 0.0]
+[0.007, -83.261, 43.305, 0.0]
+[0.007, -32.842, 44.775, 0.0]
+[0.007, 67.35, 41.795, 0.0]
+[0.007, -52.629, 43.829, 0.0]
+[0.007, 79.869, 41.752, 0.0]

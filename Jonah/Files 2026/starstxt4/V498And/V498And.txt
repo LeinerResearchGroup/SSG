@@ -1,0 +1,33 @@
+Star: V498And
+Data length: 11
+
+Primary
+  Amplitude       : 30.630 km/s
+  Mean            : -4.625 km/s
+  STD             : 22.368 km/s
+Primary Error Bars
+  RV1_hi max      : 0.280 km/s
+  RV1_hi mean     : 0.090 km/s
+  RV1_lo max      : 0.373 km/s
+  RV1_lo mean     : 0.097 km/s
+
+Vsini1
+  Mean            : 9.050
+  Error mean      : 0.058
+  Error max       : 0.076
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.04, -3.09, 7.872, 0.0]
+[0.041, 1.293, 7.729, 0.0]
+[0.042, 4.539, 7.555, 0.0]
+[0.041, -26.602, 7.63, 0.0]
+[0.041, -18.843, 7.759, 0.0]
+[0.037, 29.048, 7.913, 0.0]
+[0.041, -3.634, 7.685, 0.0]
+[0.042, -36.256, 7.663, 0.0]
+[0.044, -17.51, 7.619, 0.0]
+[0.044, -33.75, 7.171, 0.0]
+[0.04, -26.784, 7.772, 0.0]
