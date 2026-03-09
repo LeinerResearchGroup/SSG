@@ -1,0 +1,7 @@
+Star, N, RV1_amp, rv1_hi, rv1_lo, RV2_amp, rv2_hi, rv2_lo
+['29Dra', 8, 0.993, 0.091, 0.094, nan, nan, nan]
+['AZPsc', 3, 5.414, 0.036, 0.034, nan, nan, nan]
+['BD+201895', 3, 0.457, 0.433, 0.420, nan, nan, nan]
+['DIPsc', 3, 5.299, 11.518, 7.294, nan, nan, nan]
+['EZPeg', 3, 13.840, 17.341, 23.432, 0.970, 2.879, 3.449],
+['V834Her', 6, 0.980, 0.057, 0.056, nan, nan, nan]
