@@ -1,0 +1,46 @@
+Star: HUVir
+Data length: 12
+
+Primary
+  Amplitude       : 51.767 km/s
+  Mean            : -1.167 km/s
+  STD             : 35.172 km/s
+Primary Error Bars
+  RV1_hi max      : 1.224 km/s
+  RV1_hi mean     : 0.385 km/s
+  RV1_lo max      : 1.459 km/s
+  RV1_lo mean     : 0.392 km/s
+
+Vsini1
+  Mean            : -29.242
+  Error mean      : inf
+  Error max       : inf
+
+Secondary
+  Amplitude       : 44.232 km/s
+  Mean            : 23.457 km/s
+  STD             : 31.226 km/s
+Secondary Error Bars
+  RV2_hi max      : 1.578 km/s
+  RV2_hi mean     : 0.579 km/s
+  RV2_lo max      : 1.868 km/s
+  RV2_lo mean     : 0.632 km/s
+
+Vsini2
+  Mean            : -14.939
+  Error mean      : inf
+  Error max       : inf
+
+Initial Fit Parameters (p0):
+[0.013, 33.921, 23.437, 0.007, 56.664, 5, 0.0]
+[0.012, -70.108, 24.271, 0.0]
+[0.013, 53.146, 23, 0.01, 32.45, 8, 0.0]
+[0.012, 19.187, 24.052, 0.011, -3.124, 4.264, 0.0]
+[0.013, -13.589, 22.022, 0.0]
+[0.013, -38.275, 25, 0.012, -17.355, 5, 0.0]
+[0.013, -28.967, 23.422, 0.0]
+[0.011, -20.068, 23.676, 0.0]
+[0.011, 44.096, 23.912, 0.0]
+[0.012, 45.188, 23.487, 0.0]
+[0.012, 53.408, 25, 0.01, 75.514, 5, 0.0]
+[0.017, 9.897, 25, 0.011, 28.726, 5, 0.0]

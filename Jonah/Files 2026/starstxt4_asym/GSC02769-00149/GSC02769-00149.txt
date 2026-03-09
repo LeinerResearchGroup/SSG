@@ -1,0 +1,45 @@
+Star: GSC02769-00149
+Data length: 11
+
+Primary
+  Amplitude       : 28.684 km/s
+  Mean            : -19.500 km/s
+  STD             : 17.558 km/s
+Primary Error Bars
+  RV1_hi max      : 0.429 km/s
+  RV1_hi mean     : 0.267 km/s
+  RV1_lo max      : 0.799 km/s
+  RV1_lo mean     : 0.312 km/s
+
+Vsini1
+  Mean            : -10.495
+  Error mean      : 84914.712
+  Error max       : 933222.872
+
+Secondary
+  Amplitude       : 16.784 km/s
+  Mean            : -24.467 km/s
+  STD             : 11.797 km/s
+Secondary Error Bars
+  RV2_hi max      : 1.083 km/s
+  RV2_hi mean     : 0.607 km/s
+  RV2_lo max      : 1.940 km/s
+  RV2_lo mean     : 0.807 km/s
+
+Vsini2
+  Mean            : 7.360
+  Error mean      : 0.400
+  Error max       : 0.824
+
+Initial Fit Parameters (p0):
+[0.02, -21.197, 30, 0.008, -36.585, 5, 0.0]
+[0.019, -19.656, 23.374, 0.011, -44.887, 3.435, 0.0]
+[0.018, -51.282, 20.725, 0.0]
+[0.02, -18.376, 17.417, 0.0]
+[0.018, -16.337, 21.198, 0.01, 4.455, 10, 0.0]
+[0.021, 6.388, 16.818, 0.0]
+[0.02, -29.856, 17.96, 0.011, -8.882, 10, 0.0]
+[0.018, -20.676, 25, 0.011, -39.899, 5, 0.0]
+[0.018, -42.459, 22.592, 0.0]
+[0.018, -39.744, 25, 0.011, -59.867, 5, 0.0]
+[0.017, -14.78, 21.395, 0.0]

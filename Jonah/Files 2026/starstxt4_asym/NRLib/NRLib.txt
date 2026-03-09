@@ -1,0 +1,42 @@
+Star: NRLib
+Data length: 8
+
+Primary
+  Amplitude       : 48.808 km/s
+  Mean            : 30.881 km/s
+  STD             : 39.347 km/s
+Primary Error Bars
+  RV1_hi max      : 2.253 km/s
+  RV1_hi mean     : 0.826 km/s
+  RV1_lo max      : 1.901 km/s
+  RV1_lo mean     : 0.725 km/s
+
+Vsini1
+  Mean            : 28.171
+  Error mean      : inf
+  Error max       : inf
+
+Secondary
+  Amplitude       : 45.536 km/s
+  Mean            : 12.626 km/s
+  STD             : 35.568 km/s
+Secondary Error Bars
+  RV2_hi max      : 3.085 km/s
+  RV2_hi mean     : 1.250 km/s
+  RV2_lo max      : 2.810 km/s
+  RV2_lo mean     : 1.136 km/s
+
+Vsini2
+  Mean            : -435.381
+  Error mean      : inf
+  Error max       : inf
+
+Initial Fit Parameters (p0):
+[0.012, 93.036, 33.721, 0.007, 55.753, 3.283, 0.0]
+[0.011, -26.551, 23.273, 0.01, 14.342, 9.013, 0.0]
+[0.01, 65.06, 41.494, 0.007, 22.044, 8.536, 0.0]
+[0.01, -6.868, 40.324, 0.009, 34.159, 10.352, 0.0]
+[0.009, -12.019, 43.143, 0.008, -53.263, 7.735, 0.0]
+[0.011, 87.955, 40, 0.009, 43.751, 5, 0.0]
+[0.009, 9.901, 40, 0.009, -24.546, 5, 0.0]
+[0.011, 76.913, 30.154, 0.008, 49.136, 1.134, 0.0]

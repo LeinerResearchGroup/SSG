@@ -1,0 +1,37 @@
+Star: BD+201895
+Data length: 3
+
+Primary
+  Amplitude       : 8.755 km/s
+  Mean            : 17.810 km/s
+  STD             : 8.015 km/s
+Primary Error Bars
+  RV1_hi max      : 0.225 km/s
+  RV1_hi mean     : 0.185 km/s
+  RV1_lo max      : 0.203 km/s
+  RV1_lo mean     : 0.177 km/s
+
+Vsini1
+  Mean            : 22.434
+  Error mean      : 10284094.905
+  Error max       : 30851164.588
+
+Secondary
+  Amplitude       : 10.505 km/s
+  Mean            : 23.734 km/s
+  STD             : 9.835 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.274 km/s
+  RV2_hi mean     : 0.230 km/s
+  RV2_lo max      : 0.288 km/s
+  RV2_lo mean     : 0.218 km/s
+
+Vsini2
+  Mean            : 11.282
+  Error mean      : 819.285
+  Error max       : 2457.574
+
+Initial Fit Parameters (p0):
+[0.017, -12.823, 21.005, 0.013, 6.095, 10, 0.0]
+[0.018, 38.136, 20.582, 0.013, 18.834, 10, 0.0]
+[0.017, 41.87, 20.527, 0.013, 60.025, 10, 0.0]

@@ -1,0 +1,43 @@
+Star: MXDra
+Data length: 9
+
+Primary
+  Amplitude       : 49.260 km/s
+  Mean            : 1.035 km/s
+  STD             : 28.759 km/s
+Primary Error Bars
+  RV1_hi max      : 0.673 km/s
+  RV1_hi mean     : 0.354 km/s
+  RV1_lo max      : 12.646 km/s
+  RV1_lo mean     : 2.582 km/s
+
+Vsini1
+  Mean            : 29.219
+  Error mean      : inf
+  Error max       : inf
+
+Secondary
+  Amplitude       : 37.932 km/s
+  Mean            : -5.183 km/s
+  STD             : 23.550 km/s
+Secondary Error Bars
+  RV2_hi max      : 14.477 km/s
+  RV2_hi mean     : 2.912 km/s
+  RV2_lo max      : 3.285 km/s
+  RV2_lo mean     : 0.991 km/s
+
+Vsini2
+  Mean            : 3.105
+  Error mean      : inf
+  Error max       : inf
+
+Initial Fit Parameters (p0):
+[0.017, 19.023, 20, 0.014, -4.012, 10, 0.0]
+[0.018, -30.873, 20, 0.01, -7.491, 10, 0.0]
+[0.016, -12.121, 25, 0.013, -35.374, 15, 0.0]
+[0.015, -16.932, 26.582, 0.0]
+[0.015, 22.648, 26.544, 0.0]
+[0.016, 32.469, 24.862, 0.0]
+[0.016, -8.939, 15, 0.013, 14.744, 10, 0.0]
+[0.015, 74.976, 25, 0.009, 55.38, 5, 0.0]
+[0.016, 26.058, 25, 0.014, 2.809, 10, 0.0]

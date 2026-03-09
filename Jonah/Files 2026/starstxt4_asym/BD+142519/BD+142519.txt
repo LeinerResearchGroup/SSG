@@ -1,0 +1,41 @@
+Star: BD+142519
+Data length: 7
+
+Primary
+  Amplitude       : 47.688 km/s
+  Mean            : -15.301 km/s
+  STD             : 33.757 km/s
+Primary Error Bars
+  RV1_hi max      : 0.674 km/s
+  RV1_hi mean     : 0.416 km/s
+  RV1_lo max      : 0.755 km/s
+  RV1_lo mean     : 0.433 km/s
+
+Vsini1
+  Mean            : 34.415
+  Error mean      : inf
+  Error max       : inf
+
+Secondary
+  Amplitude       : 27.563 km/s
+  Mean            : -9.523 km/s
+  STD             : 16.977 km/s
+Secondary Error Bars
+  RV2_hi max      : 0.782 km/s
+  RV2_hi mean     : 0.549 km/s
+  RV2_lo max      : 0.901 km/s
+  RV2_lo mean     : 0.535 km/s
+
+Vsini2
+  Mean            : 27.016
+  Error mean      : inf
+  Error max       : inf
+
+Initial Fit Parameters (p0):
+[0.011, -48.347, 32.423, 0.01, -19.29, 4.903, 0.0]
+[0.011, -61.783, 32.423, 0.01, -33.514, 4.903, 0.0]
+[0.011, 3.513, 32.423, 0.01, -24.62, 4.903, 0.0]
+[0.016, -43.879, 25, 0.011, -16.897, 10, 0.0]
+[0.011, -10.847, 30, 0.01, 18.996, 15, 0.0]
+[0.011, 37.381, 30, 0.01, 8.851, 8, 0.0]
+[0.011, 33.094, 32.423, 0.0]
