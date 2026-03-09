@@ -1,0 +1,37 @@
+Star: EZPeg
+Data length: 3
+
+Primary
+  Amplitude       : 13.840 km/s
+  Mean            : -41.856 km/s
+  STD             : 12.466 km/s
+Primary Error Bars
+  RV1_hi max      : 17.341 km/s
+  RV1_hi mean     : 5.835 km/s
+  RV1_lo max      : 23.432 km/s
+  RV1_lo mean     : 7.861 km/s
+
+Vsini1
+  Mean            : 31.187
+  Error mean      : inf
+  Error max       : inf
+
+Secondary
+  Amplitude       : 0.970 km/s
+  Mean            : -4.782 km/s
+  STD             : 0.803 km/s
+Secondary Error Bars
+  RV2_hi max      : 2.879 km/s
+  RV2_hi mean     : 1.025 km/s
+  RV2_lo max      : 3.449 km/s
+  RV2_lo mean     : 1.217 km/s
+
+Vsini2
+  Mean            : -255.960
+  Error mean      : inf
+  Error max       : inf
+
+Initial Fit Parameters (p0):
+[0.009, -49.395, 44.062, 0.009, -29.702, 6.87, 0.0]
+[0.036, -76.557, 6.26, 0.032, -28.491, 8.377, 0.0]
+[0.038, -73.085, 8.586, 0.034, -29.633, 5.558, 0.0]
