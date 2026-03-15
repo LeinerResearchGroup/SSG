@@ -1,0 +1,24 @@
+Star: HD57267
+Data length: 2
+
+Primary
+  Amplitude       : 38.857 km/s
+  Mean            : 37.359 km/s
+  STD             : 38.857 km/s
+Primary Error Bars
+  RV1_hi max      : 0.295 km/s
+  RV1_hi mean     : 0.289 km/s
+  RV1_lo max      : 0.275 km/s
+  RV1_lo mean     : 0.259 km/s
+
+Vsini1
+  Mean            : 34.942
+  Error mean      : 0.123
+  Error max       : 0.139
+
+Secondary RV2 is all NaN; skipping its stats and Vsini2.
+
+
+Initial Fit Parameters (p0):
+[0.011, 53.906, 29.572, 0.0]
+[0.011, 28.202, 30.053, 0.0]

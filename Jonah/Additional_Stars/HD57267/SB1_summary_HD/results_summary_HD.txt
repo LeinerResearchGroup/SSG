@@ -1,0 +1,2 @@
+Star, N, RV1_amp, rv1_hi, rv1_lo, RV2_amp, rv2_hi, rv2_lo
+['HD57267', 2, 38.857, 0.295, 0.275, nan, nan, nan],
