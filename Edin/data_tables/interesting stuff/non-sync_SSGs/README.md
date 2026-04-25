@@ -1,0 +1,1 @@
+A table which includes SSGs and RS CVn in the Leiner 2022 sample that do not fit lines which represent a rotational period that is half the orbital period and a rotational period twice the orbital period
