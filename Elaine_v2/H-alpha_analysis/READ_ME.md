@@ -1,4 +1,4 @@
-This section will NEED much more work
+This section will NEED much more work> The FN Com Module will have most detailed instructions. 
 To fix:
 - Code is inefficent
 - does not account for secondaries
