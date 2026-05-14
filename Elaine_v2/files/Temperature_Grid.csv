@@ -1,0 +1,43 @@
+temperature,spectral_class,radius,logg,reference_star
+3000,M5,0.196,5,MK Models
+3250,M3.5,0.3,4.5,MK Models
+3500,M2,0.446,4.5,MK Models
+3750,M0.5,0.54,4.5,MK Models
+4000,K8,0.615,4.5,MK Models
+4250,K7,0.63,4.5,MK Models
+4500,K6,0.669,4.5,MK Models
+4750,K4,0.713,4.5,MK Models
+5000,K2.5,0.783,4.5,MK Models
+5250,K0,0.813,4.5,MK Models
+5500,G7,0.927,4.5,MK Models
+5750,G2,1,4.5,Sun
+6000,F9,1.05,4.5,MK Models
+6250,F7,1.324,4,MK Models
+6500,F5,1.473,4,MK Models
+6750,F3,1.578,4,MK Models
+7000,F1,1.679,4,MK Models
+7250,F0,1.728,4,MK Models
+7500,A8,1.747,4,MK Models
+7750,A7,1.75,4,MK Models
+8000,A6,1.775,4,MK Models
+8250,A4,1.794,4,MK Models
+8500,A2,1.861,4,MK Models
+8750,A2,1.861,4,MK Models
+9000,A1,2.136,4,MK Models
+9250,A1,2.136,4,MK Models
+9500,A1,2.193,4,MK Models
+9750,A0,2.193,4,MK Models
+10000,A0,2.45,4,Vega
+10250,A0,2.45,4,Vega
+10500,A0,2.45,4,Vega
+10750,B9,2.49,4,MK Models
+11000,B8,2.49,4,MK Models
+11250,B8,2.49,4,MK Models
+11500,B8,2.49,4,MK Models
+11750,B8,2.49,4,MK Models
+12000,B7,2.86,4,MK Models
+12250,B6,2.86,4,MK Models
+12500,B7,2.86,4,MK Models
+12750,B8,2.86,4,MK Models
+13000,B9,2.86,4,MK Models
+14000,,2.94,4,MK Models
